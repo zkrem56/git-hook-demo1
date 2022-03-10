@@ -16,5 +16,6 @@ class Demo1ApplicationTests {
 	void testSomething(){
 		assertTrue(true);
 		assertTrue(true);
+		assertTrue(true);
 
 }
