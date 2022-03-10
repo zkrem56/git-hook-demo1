@@ -11,5 +11,10 @@ class Demo1ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void testSomething(){
+		assertTrue(true);
+		assertTrue(true);
 
 }
