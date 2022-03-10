@@ -14,5 +14,8 @@ class Demo1ApplicationTests {
 	
 	@Test
 	void testSomething(){
+		assertTrue(true);
+		assertTrue(true);
+	}
 
 }
